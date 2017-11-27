@@ -6,7 +6,7 @@
 	</head>
 <body>
 	<div align="center">
-		<form method= "post" class="form-signin" action="logindo.php">
+		<form method= "post" action="Logindo.php">
 			<div>
 				<h1>登陆</h1>
 			</div>

@@ -6,7 +6,7 @@
 	</head>
 <body>
 <div align="center">
-    <form method= "post" action="registerdo.php">
+    <form method= "post" action="registraterdo.php">
         <div >
             <h1 >注册</h1>
         </div>
